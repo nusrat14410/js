@@ -41,6 +41,8 @@ console.log(k==='80');
 console.log(k!==80);
 console.log(k!=='80');
 
+//string
+
 let strng="100";
 console.log(strng+10);
 op=Number(strng);
